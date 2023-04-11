@@ -1,2 +1,2 @@
 # peartrees.github.io
-peartreesのWebページ（oldver）
+peartreesの公開用Webページ
